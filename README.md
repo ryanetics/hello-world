@@ -1,2 +1,4 @@
 # hello-world
-Exercis
+Exercise
+
+Dorkelstein at large
